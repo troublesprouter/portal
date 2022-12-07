@@ -79,7 +79,7 @@ what it's like to deploy a Bitcoin dapp locally.
 
 3. Initialize the git submodules
 
-        git submodule update --init --recursive
+        git submodule update --init --recursive --progress
 
 4. If you're on a Mac, install [Homebrew](https://brew.sh/) and then run the following to install additional packages.
 
